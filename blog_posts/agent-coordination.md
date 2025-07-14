@@ -1,0 +1,3 @@
+# Agent Coordination Patterns
+
+Multiple agents working together...
